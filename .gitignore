@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (kung gagamit ng Node later)
+node_modules/
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Env files
+.env
+
